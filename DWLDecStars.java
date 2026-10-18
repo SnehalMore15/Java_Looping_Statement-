@@ -2,7 +2,7 @@ package com.tka;
 
 public class DWLDecStars {
 	public static void main(String[] args) {
-		int i =git 5;
+		int i =5;
 		do {
 			int j = 1;
 			do {
